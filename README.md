@@ -1,5 +1,14 @@
-# Artificial-Neural-Network-
+# Bank Customer behavior prediction
 Using Artificial Neural Network (ANN) to predict if the costumer will the leave or stay in a bank.
+
+Algorithm:
+Artificial Neural Network- ANN
+
+Language:
+Pythom
+
+FrameWork:
+Keras
 
 To do before start running the code:
 Windows:
@@ -12,5 +21,4 @@ pip install tensorflow
 # Installing Keras
  pip install --upgrade keras
  
-Sample Dataset used: 
-Chrun_Modelling.csv 
+Dataset: https://www.kaggle.com/shrutimechlearn/churn-modelling
